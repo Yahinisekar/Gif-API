@@ -17,7 +17,7 @@ The project allows users to fetch GIFs from a specified API and display them on 
 
 1. Clone the repository:
 2. Open the index.html file in your web browser.
-3. 
+   
 ### Usage
 - Open the index.html file in your web browser.
 - Enter a search term in the input field provided.
